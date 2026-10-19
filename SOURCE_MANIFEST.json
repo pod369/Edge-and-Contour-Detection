@@ -1,0 +1,44 @@
+{
+  "source_repository": "pod369/Image-processing-4",
+  "source_commit": "b2f9a5b94bbe353cce22ce469e358bb2715759ce",
+  "organized_on": "2026-10-14",
+  "reference_files_preserve_original_bytes": true,
+  "standalone_reorganized_on": "2026-10-19",
+  "files": [
+    {
+      "local_path": "reference/play_4_1.py",
+      "original_path": "play_4_1.py",
+      "source_blob_sha": "8d2536fb51015017d740f041ca4ed66158674bd2",
+      "sha256": "4b6f540dfb6ae34a66ed2725c5936837de2b863c786a1a550ca1aa477c51a4d6",
+      "size_bytes": 483
+    },
+    {
+      "local_path": "reference/play_4_2.py",
+      "original_path": "play_4_2.py",
+      "source_blob_sha": "630146f49f7705fefb4026a28a2a7ad411ae6f7b",
+      "sha256": "8407446ef80508561aff40093525bd7e5a574324aafc0b90c015598c895e39dd",
+      "size_bytes": 280
+    },
+    {
+      "local_path": "reference/play_4_3.py",
+      "original_path": "play_4_3.py",
+      "source_blob_sha": "1921d6ea08cd6aed11013454310a5f8be5b3bfeb",
+      "sha256": "5b9e75c1cededa6392b7d38fab07659a799bd01d3a44b653fc0d38f9e0db2617",
+      "size_bytes": 495
+    },
+    {
+      "local_path": "assets/mot_color70.jpg",
+      "original_path": "mot_color70.jpg",
+      "source_blob_sha": "b6165a72616ba0ffbbdadd8d1f8d2a7b56e44d5f",
+      "sha256": "91d0df8de86d2c8b17d80f7a1ebc61841bda031a84b509e6b69d3ab7ad0fef9a",
+      "size_bytes": 183251
+    },
+    {
+      "local_path": "assets/river.jpg",
+      "original_path": "river.jpg",
+      "source_blob_sha": "d699d4c2abd062198da5e288c40c8dff1b861805",
+      "sha256": "74dab3c549383a2e6986062a5892936e14fb808a763ec3727990144045d77775",
+      "size_bytes": 2017688
+    }
+  ]
+}
